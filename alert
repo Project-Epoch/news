@@ -1,0 +1,12 @@
+SERVERALERT:
+<html><body>
+<p>Here's a sample of what can be done in the server alert file.<br /><br /></p>
+<p>There's three different header styles:</p>
+<h1 align="center">This is header style 1</h1>
+<h2 align="center">This is header style 2</h2>
+<h3 align="center">This is header style 3 (like paragraph style)<br /><br /></h3>
+<p align="left">Text can be aligned left,</p>
+<p align="center">center,</p>
+<p align="right">or to the right!</p>
+</body></html>
+
