@@ -4,6 +4,19 @@ SERVERALERT:
         <p>
             Welcome to the Project Epoch Alpha Test Realm. Please be aware that this is a heavily work in progress build of the game and you may notice timeline continuity errors and occasional bugs.
         </p>
+        <br>
+        <p>
+            Patch 0.6.0 is now live!
+        </p>
+        <h2 align="center">Latest Changes:</h2>
+        <ul>
+            <li>Classic Itemisation for Armor and Weapons.</li>
+            <li>Removal of all drops added in The Burning Crusade and onwards.</li>
+            <li>Removal of all NPC's and Creatures added in The Burning Crusade and onwards.</li>
+            <li>Removal of some transports.</li>
+            <li>Stormwind Harbor Visual Overhaul</li>
+            <li>Undercity Guards Restored</li>
+        </ul>
     </body>
 </html>
 
