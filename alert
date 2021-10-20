@@ -4,7 +4,6 @@ SERVERALERT:
         <p>
             Welcome to the Project Epoch Alpha Test Realm. Please be aware that this is a heavily work in progress build of the game and you may notice timeline continuity errors and occasional bugs.
         </p>
-        <br>
         <p>
             Patch 0.6.0 is now live!
         </p>
@@ -19,4 +18,5 @@ SERVERALERT:
         </ul>
     </body>
 </html>
+
 
