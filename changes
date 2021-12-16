@@ -1,0 +1,266 @@
+<h1 id="0-7-0">0.7.0</h1>
+<h2 id="general">General</h2>
+<ul>
+<li>Removed Draenei Race.</li>
+<li>Removed Blood Elf Race.</li>
+<li>Adjusted Talent gains to reach 71 points at level 60.</li>
+<li>Starting outfits and equipment restored to a Classic state for all race and class combinations.</li>
+<li>Every race has had its racial abilities restored to a Classic state.</li>
+<li>Added Soul of Iron system and matching NPC&#39;s in each city.</li>
+<li>Added a system to remove world buffs when entering raids.</li>
+<li>Adjusted the stats per level for all race and class combinations to match Classic.</li>
+<li>Fully removed Northrend and Outlands maps to improve performance.</li>
+</ul>
+<h2 id="world-environment">World Environment</h2>
+<ul>
+<li>Elwynn Forest - Tower of Azora Overhauled.</li>
+<li>Northshire Falls Graveyard added.</li>
+<li>Goldshire World Adjustments.</li>
+<li>Removed Northrend Zeppelin Towers.</li>
+<li>Restored Menethil Harbor to a Classic state.</li>
+<li>Removed all transports not present in Classic.</li>
+<li>Overhauled the levels of all transport crews.</li>
+<li>Added missing spawns for 31 creature types.</li>
+<li>Fixed the walking and running speeds of 2279 creature types.</li>
+<li>Removed all creatures added between Patch 1.2 and Patch 1.12 on Blizzard servers.</li>
+<li>Removed all game objects added between Patch 1.2 and Patch 1.12 on Blizzard servers.</li>
+<li>Restored Dustwallow Marsh to a mostly Classic state (Grimtotem Encampment remains intentionally).</li>
+<li>Restored Silithus to a Patch 1.2 state.</li>
+<li>Closed the Gates of Ahn&#39;Qiraj</li>
+</ul>
+<h2 id="holidays-events">Holidays / Events</h2>
+<ul>
+<li>Remove Brewfest.</li>
+<li>Remove Day of the Dead.</li>
+<li>Remove Kaluak Fishing Derby.</li>
+<li>Remove Pilgrims Bounty.</li>
+<li>Remove Pirates Day.</li>
+<li>Disable Darkmoon Faire.</li>
+<li>Disable Stranglethorn Fishing Extravaganza.</li>
+</ul>
+<h2 id="quests">Quests</h2>
+<ul>
+<li>Tower of Azora Custom Quests.</li>
+<li>Goldshire Miners Custom Quests.</li>
+<li>Disabled all Blizzard quests not present in Patch 1.2.</li>
+<li>Dwarf Shaman &quot;Call of Water&quot; quest chain added.</li>
+<li>Dwarf Shaman &quot;Call of Air&quot; quest chain added.</li>
+<li>Dwarf Shaman &quot;Call of Fire&quot; quest chain added.</li>
+<li>Tauren Paladin &quot;Redemption&quot; quest chain added.</li>
+<li>Level 40 Paladin Class Mount quests added.</li>
+</ul>
+<h2 id="user-interface">User Interface</h2>
+<ul>
+<li>Removed hundreds of TBC and WotLK achievements.</li>
+<li>Adjusted the requirements for numerous achievements.</li>
+<li>Removed all quest poi&#39;s.</li>
+</ul>
+<p>This is considered heavily work in progress and serves as a proof of concept for how to safely remove these.</p>
+<h2 id="items">Items</h2>
+<ul>
+<li>Restored 7193 armor pieces to a Classic Patch 1.12 state.</li>
+<li>Restored 1810 weapons to a Classic Patch 1.12 state.</li>
+<li>Restored 815 consumables to a Classic Patch 1.12 state.</li>
+<li>Restored 65 containers to a Classic Patch 1.12 state.</li>
+<li>Removed 11200+ drops from creatures, chests, disenchanting, gathering that should not exist in Classic.</li>
+</ul>
+<hr>
+<h1 id="0-6-0">0.6.0</h1>
+<h2 id="quests">Quests</h2>
+<ul>
+<li>Dwarf Shaman &quot;Call of Earth&quot; quest chain added.</li>
+<li>Custom &quot;The Soaked Barrel&quot; quest chain added to Northshire Abbey.</li>
+</ul>
+<h2 id="world-environment">World Environment</h2>
+<ul>
+<li>Acherus Hold and all relevant creatures removed.</li>
+<li>Thunderbluff to Orgrimmar Zeppelin removed.</li>
+<li>Northshire Falls area finalised and populated with creatures.</li>
+<li>New Rare - Precipise</li>
+<li>Normal creature auto-attack damage increased by 25%.</li>
+<li>Elite, Rare, Rare Elite creature auto-attack damage increased by 35%.</li>
+<li>All creature health increased by 75%.</li>
+<li>Removed spawns of 353 creature types that should not be present in Classic across the Eastern Kingdoms and Kalimdor.</li>
+<li>Swapped Anvilrage Taskmaster spawns to Anvilrage Overseer.</li>
+<li>Swapped Anvilrage Enforcer spawns to Anvilrage Wardens.</li>
+<li>Added Undercity Guardian spawns and menus.</li>
+<li>Stormwind Throne Room restored to Classic state.</li>
+<li>The Stormwind Harbor has been overhauled to fit within a custom Classic state with new models, aesthetic, NPC&#39;s and more.</li>
+</ul>
+<h2 id="user-interface">User Interface</h2>
+<ul>
+<li>Improved Login Screen Details.</li>
+<li>Added the Project Epoch logo to relevant places.</li>
+</ul>
+<h2 id="general">General</h2>
+<ul>
+<li>Base Riding now available from riding trainers at level 40 for 100g.</li>
+<li>Expert Riding now available from riding trainers at level 60 for 1000g.</li>
+</ul>
+<h2 id="classes">Classes</h2>
+<h3 id="paladin">Paladin</h3>
+<ul>
+<li>Tauren Paladin Class Mounts Added.</li>
+<li>Divine Plea is now available for purchase from class trainers at level 30.</li>
+<li>Avenging Wrath is now available for purchase from class trainers at level 40.</li>
+<li>Crusader Aura is now available for purchase from class trainers at level 50.</li>
+<li>Seal of Vengeance is now available for purchase from class trainers at level 60.</li>
+<li>Seal of Righteousness re-tuned and placeholder class quest added to trainers available at level 60.</li>
+<li>Sacred Shield re-tuned and placeholder class quest added to trainers available at level 60.</li>
+</ul>
+<h3 id="warlock">Warlock</h3>
+<ul>
+<li>Soul Shatter is now available for purchase from class trainers at level 30.</li>
+<li>Fel Armor is now available for purchase from class trainers at level 60.</li>
+<li>Seed of Corruption re-tuned and placeholder class quest added to trainers available at level 58.</li>
+<li>Incinerate re-tuned and placeholder class quest added to trainers available at level 60.</li>
+<li>Shadowflame re-tuned and placeholder class quest added to trainers available at level 56.</li>
+<li>Ritual of Souls is now available for purchase from class trainers at level 60.</li>
+<li>Demonic Circle is now available for purchase from class trainers at level 50.</li>
+</ul>
+<hr>
+<h1 id="0-5-0">0.5.0</h1>
+<h2 id="user-interface">User Interface</h2>
+<ul>
+<li>Custom Breaking News Support.</li>
+</ul>
+<h2 id="classes">Classes</h2>
+<h3 id="warrior">Warrior</h3>
+<ul>
+<li>Commanding Shout re-tuned and placeholder class quest added to trainers available at level 55.</li>
+<li>Intervene is now available for purchase from class trainers at level 44.</li>
+<li>Spell Reflection is now available for purchase from class trainers at level 40.</li>
+<li>Enraged Regeneration is now available for purchase from class trainers at level 60.</li>
+<li>Heroic Throw is now available for purchase from class trainers at level 35.</li>
+<li>Shattering Throw is now available for purchase from class trainers at level 48.</li>
+</ul>
+<h3 id="druid">Druid</h3>
+<ul>
+<li>Swipe is now available for purchase from class trainers at level 30.</li>
+<li>Savage Roar is now available for purchase from class trainers at level 38.</li>
+<li>Cyclone is now available for purchase from class trainers at level 46.</li>
+<li>Lacerate is now available for purchase from class trainers at level 56.</li>
+<li>Main is now available for purchase from class trainers at level 50.</li>
+<li>Lifebloom is now available for purchase from class trainers at level 58.</li>
+<li>Nourish nerfed and a placeholder class quest to gain it added.</li>
+<li>Flight Form removed.</li>
+</ul>
+<h3 id="shaman">Shaman</h3>
+<ul>
+<li>Hex is now available for purchase from class trainers at level 28.</li>
+<li>Wrath of Air is now available for purchase from class trainers at level 36.</li>
+<li>Earth Elemental is now available for purchase from class trainers at level 42.</li>
+<li>Fire Elemental is now available for purchase from class trainers at level 48.</li>
+<li>Bloodlust / Heroism are now available for purchase from class trainers at level 54.</li>
+</ul>
+<h3 id="rogue">Rogue</h3>
+<ul>
+<li>Shiv is now available for purchase from class trainers at level 30.</li>
+<li>Fan of Knives is now available for purchase from class trainers at level 40.</li>
+<li>Cloak of Shadows placeholder class quest added to trainers available at level 34.</li>
+<li>Tricks of the Trade placeholder class quest added to trainers available at level 34 (will be adjusted later).</li>
+<li>Envenom re-tuned and is now available for purchase from class trainers at level 58.</li>
+<li>Deadly Throw re-tuned and is now available for purchase from class trainers at level 60.</li>
+</ul>
+<h3 id="priest">Priest</h3>
+<ul>
+<li>Hymn of Hope placeholder class quest added to trainers available at level 40.</li>
+<li>Mass Dispel placeholder class quest added to trainers available at level 50.</li>
+<li>Shadowfiend is now available for purchase from class trainers at level 45.</li>
+<li>Binding Heal re-tuned and is now available for purchase from class trainers at level 58.</li>
+<li>Prayer of Mending re-tuned and is now available for purchase from class trainers at level 60.</li>
+<li>Divine Hymn re-tuned and is now available for purchase from class trainers at level 60.</li>
+</ul>
+<h3 id="hunter">Hunter</h3>
+<ul>
+<li>Snake Trap re-tuned and is now available for purchase from class trainers at level 58.</li>
+<li>Kill Command is now available for purchase from class trainers at level 36.</li>
+<li>Masters Call is now available for purchase from class trainers at level 40.</li>
+<li>Call Stabled Pet placeholder class quest added to trainers available at level 30.</li>
+<li>Freezing Arrow placeholder class quest added to trainers available at level 45.</li>
+<li>Misdirection is now available for purchase from class trainers at level 38.</li>
+<li>Kill Shot re-tuned and is now available for purchase from class trainers at level 60.</li>
+</ul>
+<h3 id="mage">Mage</h3>
+<ul>
+<li>Mirror Image placeholder class quest added to trainers available at level 40.</li>
+<li>Ritual of Refreshment placeholder class quest added to trainers available at level 60.</li>
+<li>Invisibility is now available for purchase from class trainers at level 24.</li>
+<li>Spellsteal is now available for purchase from class trainers at level 32.</li>
+<li>Arcane Blast re-tuned and is now available for purchase from class trainers at level 58.</li>
+<li>Molten Armor is now available for purchase from class trainers at level 58.</li>
+<li>Frostfire Bolt re-tuned and is now available for purchase from class trainers at level 60.</li>
+<li>Ice Lance re-tuned and is now available for purchase from class trainers at level 60.</li>
+</ul>
+<hr>
+<h1 id="0-4-0">0.4.0</h1>
+<h2 id="classes">Classes</h2>
+<ul>
+<li>Wildhammer (Shaman) Dwarves Added.</li>
+</ul>
+<h2 id="world-environment">World Environment</h2>
+<ul>
+<li>Dark Portal restored to Classic visuals.</li>
+<li>Added missing Demon creatures around the Dark Portal.</li>
+<li>Dwarf Shaman Trainers added to Ironforge, Stormwind, Dun Morogh.</li>
+</ul>
+<h2 id="quests">Quests</h2>
+<ul>
+<li>Placeholder Dwarf Shaman Class Quests.</li>
+</ul>
+<hr>
+<h1 id="0-3-0">0.3.0</h1>
+<h2 id="world-environment">World Environment</h2>
+<ul>
+<li>Removed Portals to Blasted Lands.</li>
+<li>Removed 11 Creatures that should not be present in Classic.</li>
+</ul>
+<h2 id="quests">Quests</h2>
+<ul>
+<li>Level 60 Cap.</li>
+<li>Adjusted the required experience to reach level 60 to match Classic values.</li>
+</ul>
+<h2 id="instanced-content">Instanced Content</h2>
+<ul>
+<li>Onyxia&#39;s Lair overhauled with the addition of new interior sections.</li>
+<li>Onyxia&#39;s Lair New Boss - Ortorg the Ardent</li>
+<li>Onyxia&#39;s Lair New Boss - Brood Tender Atressian</li>
+<li>Disabled Blackwing Lair.</li>
+<li>Disabled Dire Maul.</li>
+<li>Disabled Karazhan.</li>
+<li>Disabled Naxxramas.</li>
+<li>Disabled Ruins of Ahn&#39;Qiraj.</li>
+<li>Disabled Temple of Ahn&#39;Qiraj.</li>
+<li>Disabled Zul Gurub.</li>
+</ul>
+<hr>
+<h1 id="0-2-0">0.2.0</h1>
+<h2 id="classes">Classes</h2>
+<ul>
+<li>Removed Death Knights</li>
+<li>Sunwalker (Paladin) Taurens Added.</li>
+</ul>
+<h2 id="world-environment">World Environment</h2>
+<ul>
+<li>Corrected the rarity (Normal, Rare, Rare Elite) of 324 Creatures.</li>
+<li>Northshire Wolves are no longer diseased.</li>
+<li>Tauren Paladin Trainers added to Orgrimmar, Thunder Bluff, Bloodhoof Village, Camp Narache.</li>
+</ul>
+<h2 id="quests">Quests</h2>
+<ul>
+<li>Restored the Human starting area &quot;Wolves At The Border&quot; quest to a Classic State.</li>
+<li>Placeholder Tauren Paladin Class Quests.</li>
+</ul>
+<hr>
+<h1 id="0-1-0">0.1.0</h1>
+<h2 id="world-environment">World Environment</h2>
+<ul>
+<li>Corrected the level ranges of 1490 Creatures across the Eastern Kingdoms and Kalimdor.</li>
+<li>Corrected the names of 123 Creatures across the Eastern Kingdoms and Kalimdor.</li>
+<li>Restored the aggressive behaviour of Creatures within each racial starting zone. </li>
+</ul>
+<h2 id="user-interface">User Interface</h2>
+<ul>
+<li>Swapped the Wrath of the Lich King Login Screen to the Classic Login Screen.</li>
+</ul>
+<hr>
